@@ -36,4 +36,7 @@ li a:hover{
     color:black;
     background-color: yellow;
 }
-
+.git:hover{
+    color:white;
+    background-color: black;
+}
